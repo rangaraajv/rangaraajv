@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/rangaraaj7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rangaraaj7" height="30" width="40" /></a>
 <a href="https://instagram.com/rangaraaj_venkkatesan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rangaraaj_venkkatesan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rangaraaj-venkkatesan-4a12b0184/" target="blank"><img align="center" src="https://www.linkedin.com/feed/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B4fILn%2BftSdyhctYkgf1zVg%3D%3D#" alt="rangaraaj_venkkatesan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rangaraaj-venkkatesan-4a12b0184/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536569.png?token=exp=1650374644~hmac=daa93f374e7b782b3cb30c487530bc4c" alt="rangaraaj_venkkatesan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
