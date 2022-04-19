@@ -5,14 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rangaraajv" alt="rangaraajv" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/rangaraaj-venkkatesan-4a12b0184/" target="blank"><img src="https://img.shields.io/twitter/follow/rangaraaj7?logo=twitter&style=for-the-badge" alt="rangaraaj7" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rangaraaj7" target="blank"><img src="https://img.shields.io/twitter/follow/rangaraaj7?logo=twitter&style=for-the-badge" alt="rangaraaj7" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rangaraaj7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rangaraaj7" height="30" width="40" /></a>
 <a href="https://instagram.com/rangaraaj_venkkatesan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rangaraaj_venkkatesan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rangaraaj-venkkatesan-4a12b0184/" target="blank"><img align="center" src="https://www.linkedin.com/feed/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B4fILn%2BftSdyhctYkgf1zVg%3D%3D#" alt="rangaraaj_venkkatesan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
