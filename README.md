@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rangaraajv" alt="rangaraajv" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rangaraaj7" target="blank"><img src="https://img.shields.io/twitter/follow/rangaraaj7?logo=twitter&style=for-the-badge" alt="rangaraaj7" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/rangaraaj-venkkatesan-4a12b0184/" target="blank"><img src="https://img.shields.io/twitter/follow/rangaraaj7?logo=twitter&style=for-the-badge" alt="rangaraaj7" /></a> </p>
 
-- 🔭 I’m currently working on **Stock Market Price prediction using LSTM**
+<p align="left"> <a href="https://twitter.com/rangaraaj7" target="blank"><img src="https://img.shields.io/twitter/follow/rangaraaj7?logo=twitter&style=for-the-badge" alt="rangaraaj7" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
